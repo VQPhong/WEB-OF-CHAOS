@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#div-1{
+    height: 100vh;
+    border: solid 3px black;
+    background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+.text-align{
+    font-size: 55px;
+}
